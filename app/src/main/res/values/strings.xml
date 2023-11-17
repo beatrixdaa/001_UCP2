@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ucp2</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_back">Back</string>
+    <string name="nama_mhs">Namamahasiswa</string>
+    <string name="nim_mhs">NIM</string>
+    <string name="konservasi_mhs">Konservasi</string>
+    <string name="judul_skripsi">Judul</string>
+    <string name="harissetiawan">HS</string>
+    <string name="cahyadamar">CD</string>
+    <string name="aprilia">AK</string>
+
+
+</resources>
